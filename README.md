@@ -1,6 +1,6 @@
 # Project Description
 
-
+![image](https://github.com/christinachiang753951/ETL-COVID19_Analysis/blob/main/pic.jpg)
 
 ## ***Overview*** 
 Within months, COVID-19 went from an epidemic to a pandemic and has affected people's lives in many ways all over the world. From the first identified case in December 2019, how did the virus spread so fast and widely? <br>
