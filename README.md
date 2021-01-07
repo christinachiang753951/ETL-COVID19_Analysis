@@ -1,4 +1,4 @@
-# Project Description
+# ETL- COVID-19 Analysis
 
 ![image](https://github.com/christinachiang753951/ETL-COVID19_Analysis/blob/main/pic.jpg)
 
