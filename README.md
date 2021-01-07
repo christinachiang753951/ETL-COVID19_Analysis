@@ -1,4 +1,4 @@
-### Project Description
+# Project Description
 
 ***Overview*** <br> 
 Within months, COVID-19 went from an epidemic to a pandemic and has affected people's lives in many ways all over the world. From the first identified case in December 2019, how did the virus spread so fast and widely? <br>
