@@ -1,14 +1,14 @@
 ### Project Description
 
-##### Overview
+###### Overview
 Within months, COVID-19 went from an epidemic to a pandemic and has affected people's lives in many ways all over the world. From the first identified case in December 2019, how did the virus spread so fast and widely? <br>
 Out of curiosity, I explored the open dataset from the World Health Organization website and tried to applied the analysis skills all together I have learned to this ongoing real-world problem. 
 
-#####  Data Availability
+######  Data Availability
 The main dataset was acquired from the World Health Organization website, date ranging from January 11, 2020, as to June 20, 2020. 
 - Data Source: https://covid19.who.int/
 
-#####  Project Workflow
+######  Project Workflow
 In the first part, I mainly used Python programming with Numpy and Pandas packages for data wrangling including clean and merge datasets. In terms of exploratory data analysis, several visualization tools used include Matplotlib and seaborn. I also self-learned "plotly express", a high-level interface to create many fancy interactive and informative visualizations.
 <br> 
 <br> 
