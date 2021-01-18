@@ -7,7 +7,7 @@ Within months, COVID-19 went from an epidemic to a pandemic and has affected peo
 Out of curiosity, I explored the open dataset from the World Health Organization website and tried to applied the analysis skills all together I have learned to this ongoing real-world problem. 
 
 ## ***Data Availability***  
-The main dataset was acquired from the World Health Organization website, date ranging from January 11, 2020, as to June 20, 2020. 
+The main dataset was acquired from the World Health Organization website, date ranging from January 11, 2020, as of June 20, 2020. 
 - Data Source: https://covid19.who.int/
 
 ## ***Project Workflow*** 
