@@ -20,3 +20,4 @@ Secondly, I Integrated Jupyter notebook and MySQL Workbench through API to migra
 Last but not least, I connected the MySQL server to Tableau. I built a dashboard and deployed it to the public website for offering interactive data visualization.
 
 - Visual Dashboard site: https://christinachiang753951.github.io/Tableau/COVID-19/Dashboard.html
+
